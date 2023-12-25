@@ -1,0 +1,962 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: idolcorp\n"
+"POT-Creation-Date: 2016-06-12 10:58+0545\n"
+"PO-Revision-Date: 2016-06-12 10:59+0545\n"
+"Last-Translator: ThemeIdol <themeidol@gmail.com>\n"
+"Language-Team: the Themeidol Team <themeidol@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;dgettext;ngettext;dngettext;__;"
+"_e;_c;_n;_n_noop;_nc;__ngettext;__ngettext_noop;_x;_ex;_nx;_nx_noop;_n_js;"
+"_nx_js;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: idolcorp;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ..../404.php:16
+msgid "This Page Does Not Exist"
+msgstr ""
+
+#: ../404.php:18
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../404.php:21
+msgid "Go Home"
+msgstr ""
+
+#: ../404.php:22
+msgid "Return"
+msgstr ""
+
+#: ../author-bio.php:25
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../author-bio.php:29
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;<../span>"
+msgstr ""
+
+#: ../comments.php:24
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: ../comments.php:44
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:45
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:46
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions.php:95
+msgid "Top primary menu"
+msgstr ""
+
+#: ../functions.php:96
+msgid "Disclaimer Menu"
+msgstr ""
+
+#: ../functions.php:168
+msgid "on"
+msgstr ""
+
+#: ../search.php:19
+#: ../inc../template-tags.php:159
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../inc../extras.php:50
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc../extras.php:118
+#: ../inc../extras.php:127
+msgid "Select Layout"
+msgstr ""
+
+#: ../inc../extras.php:141
+msgid "Default Layout"
+msgstr ""
+
+#: ../inc../extras.php:146
+#: ../inc../idolcorp-widget-area.php:16
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../inc../extras.php:151
+#: ../inc../idolcorp-widget-area.php:26
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../inc../extras.php:156
+msgid "No Sidebar Full Width"
+msgstr ""
+
+#: ../inc../idolcorp-functions.php:309
+msgid "Home"
+msgstr ""
+
+#: ../inc../idolcorp-functions.php:329
+msgid "Archive by category"
+msgstr ""
+
+#: ../inc../idolcorp-functions.php:331
+msgid "Search results for"
+msgstr ""
+
+#: ../inc../idolcorp-functions.php:383
+msgid "Posts tagged"
+msgstr ""
+
+#: ../inc../idolcorp-functions.php:387
+msgid "Articles posted by "
+msgstr ""
+
+#: ../inc../idolcorp-functions.php:389
+msgid "Error 404 "
+msgstr ""
+
+#: ../inc../idolcorp-functions.php:395
+msgid "Page"
+msgstr ""
+
+#: ../inc../idolcorp-functions.php:452
+#: ../inc../idolcorp-functions.php:490
+#: ../page-templates../content-aside.php:31
+#: ../page-templates../content-audio.php:31
+msgid "Continue reading <span class=\"meta-nav\">&rarr;<../span>"
+msgstr ""
+
+#: ../inc../idolcorp-functions.php:453
+#: ../inc../idolcorp-functions.php:492
+#: ../page-templates../content-aside.php:32
+#: ../page-templates../content-audio.php:32
+#: ../page-templates../content-blank.php:13
+#: ../page-templates../content-chat.php:23
+msgid "Pages:"
+msgstr ""
+
+#: ../inc../idolcorp-functions.php:484
+msgid "Continue reading &raquo;"
+msgstr ""
+
+#: ../inc../idolcorp-functions.php:584
+#: ../inc../idolcorp-functions.php:847
+msgid "Read More"
+msgstr ""
+
+#: ../inc../idolcorp-functions.php:633
+msgid "Learn More"
+msgstr ""
+
+#: ../inc../idolcorp-functions.php:954
+msgid "View All"
+msgstr ""
+
+#: ../inc../idolcorp-widget-area.php:18
+msgid "Show widgets at Right sidebar of archive../posts../pages."
+msgstr ""
+
+#: ../inc../idolcorp-widget-area.php:28
+#: ../inc../idolcorp-widget-area.php:38
+msgid "Show widgets at Left sidebar of archive../posts../pages."
+msgstr ""
+
+#: ../inc../idolcorp-widget-area.php:36
+msgid "Contact Sidebar"
+msgstr ""
+
+#: ../inc../idolcorp-widget-area.php:48
+msgid "Footer Sidebar One"
+msgstr ""
+
+#: ../inc../idolcorp-widget-area.php:50
+msgid "Show widgets at footer sidebar one"
+msgstr ""
+
+#: ../inc../idolcorp-widget-area.php:58
+msgid "Footer Sidebar Two"
+msgstr ""
+
+#: ../inc../idolcorp-widget-area.php:60
+msgid "Show widgets at footer sidebar two"
+msgstr ""
+
+#: ../inc../idolcorp-widget-area.php:68
+msgid "Footer Sidebar Three"
+msgstr ""
+
+#: ../inc../idolcorp-widget-area.php:70
+msgid "Show widgets at footer sidebar three"
+msgstr ""
+
+#: ../inc../idolcorp-widget-area.php:78
+msgid "Footer Sidebar Four"
+msgstr ""
+
+#: ../inc../idolcorp-widget-area.php:80
+msgid "Show widgets at footer sidebar four"
+msgstr ""
+
+#: ../inc../template-tags.php:47
+msgid "&laquo;"
+msgstr ""
+
+#: ../inc../template-tags.php:48
+msgid "&raquo;"
+msgstr ""
+
+#: ../inc../template-tags.php:55
+msgid "Posts navigation"
+msgstr ""
+
+#: ../inc../template-tags.php:84
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc../template-tags.php:88
+msgid "<span class=\"meta-nav\">Published In<../span>%title"
+msgstr ""
+
+#: ../inc../template-tags.php:90
+msgid "<span class=\"meta-nav\">Previous<../span>%title"
+msgstr ""
+
+#: ../inc../template-tags.php:91
+msgid "%title <span class=\"meta-nav\">Next<../span>"
+msgstr ""
+
+#: ../inc../template-tags.php:113
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: ../inc../template-tags.php:115
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: ../inc../template-tags.php:117
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../inc../template-tags.php:119
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../inc../template-tags.php:121
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../inc../template-tags.php:123
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../inc../template-tags.php:145
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: ../inc../template-tags.php:149
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: ../inc../template-tags.php:167
+msgid "Archives"
+msgstr ""
+
+#: ../inc../template-tags.php:270
+msgid "Sticky"
+msgstr ""
+
+#: ../inc../template-tags.php:277
+msgid ", "
+msgstr ""
+
+#: ../inc../template-tags.php:289
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../inc../template-tags.php:312
+msgid "Tags"
+msgstr ""
+
+#: ../inc../template-tags.php:312
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../inc../template-tags.php:334
+#, php-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ../inc../template-tags.php:340
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../inc../wp-version-check.php:41
+#: ../inc../wp-version-check.php:53
+#: ../inc../wp-version-check.php:68
+#, php-format
+msgid ""
+"Idolcorp requires at least WordPress version 3.6. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#: ../inc../widget../idolcorp_contactinfo_widgets.php:35
+msgid "A contact info widget"
+msgstr ""
+
+#: ../inc../widget../idolcorp_contactinfo_widgets.php:113
+msgid "Contact"
+msgstr ""
+
+#: ../inc../widget../idolcorp_contactinfo_widgets.php:122
+msgid "Title :"
+msgstr ""
+
+#: ../inc../widget../idolcorp_contactinfo_widgets.php:127
+msgid "Your Detail :"
+msgstr ""
+
+#: ../inc../widget../idolcorp_contactinfo_widgets.php:132
+msgid "Phone number :"
+msgstr ""
+
+#: ../inc../widget../idolcorp_contactinfo_widgets.php:136
+msgid "Email address :"
+msgstr ""
+
+#: ../page-templates../content-aside.php:23
+#: ../page-templates../content-audio.php:23
+#: ../page-templates../content-gallery.php:23
+#: ../page-templates../content-image.php:24
+#: ../page-templates../content-link.php:24
+#: ../page-templates../content-quote.php:24
+#: ../page-templates../content-single.php:24
+#: ../page-templates../content-video.php:25
+#: ../page-templates../content.php:26
+msgid "Leave a comment"
+msgstr ""
+
+#: ../page-templates../content-aside.php:23
+#: ../page-templates../content-audio.php:23
+#: ../page-templates../content-gallery.php:23
+#: ../page-templates../content-image.php:24
+#: ../page-templates../content-link.php:24
+#: ../page-templates../content-quote.php:24
+#: ../page-templates../content-single.php:24
+#: ../page-templates../content-video.php:25
+#: ../page-templates../content.php:26
+msgid "1 Comment"
+msgstr ""
+
+#: ../page-templates../content-aside.php:23
+#: ../page-templates../content-audio.php:23
+#: ../page-templates../content-gallery.php:23
+#: ../page-templates../content-image.php:24
+#: ../page-templates../content-link.php:24
+#: ../page-templates../content-quote.php:24
+#: ../page-templates../content-single.php:24
+#: ../page-templates../content-video.php:25
+#: ../page-templates../content.php:26
+msgid "% Comments"
+msgstr ""
+
+#: ../page-templates../content-aside.php:26
+#: ../page-templates../content-audio.php:26
+#: ../page-templates../content-blank.php:14
+#: ../page-templates../content-chat.php:24
+#: ../page-templates../content-gallery.php:26
+#: ../page-templates../content-image.php:27
+#: ../page-templates../content-link.php:27
+#: ../page-templates../content-page.php:22
+#: ../page-templates../content-quote.php:27
+#: ../page-templates../content-single.php:27
+#: ../page-templates../content-video.php:28
+#: ../page-templates../content.php:29
+msgid "Edit"
+msgstr ""
+
+#: ../page-templates../content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../page-templates../content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here<../a>."
+msgstr ""
+
+#: ../page-templates../content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../page-templates../content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../themeidol-customizer../class-wp-custom-customize-control.php:119
+msgid "--Select Post--"
+msgstr ""
+
+#: ../themeidol-customizer../class-wp-custom-customize-control.php:148
+msgid "&mdash; Select Pages &mdash;"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:92
+#, php-format
+msgid ""
+"Welcome & thank you for choosing idolcorp a theme by themeidol as your site "
+"theme. In this section you'll find some helpful hints and tips to help you "
+"configure your site quickly and easily.\n"
+"        <b><br../><a href=\"%1$s\" target=\"_blank\" ../>View Theme Demo<../a> | "
+"<a href=\"%2$s\" target=\"_blank\" ../>Get Theme Support<../a> "
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:127
+msgid "Design Settings"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:141
+msgid "Archive Sidebar"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:162
+#: ../themeidol-customizer../themeidol-customizer.php:206
+#: ../themeidol-customizer../themeidol-customizer.php:246
+msgid "Available layouts"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:163
+msgid "Select layout for whole site archives, categories, search page etc."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:185
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:207
+msgid ""
+"Select layout for all pages unless unique layout is set for specific page."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:225
+msgid "Post Sidebar"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:247
+msgid ""
+"Select layout for all posts unless unique layout is set for specific page."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:265
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:284
+msgid "Breadcrumbs Option"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:285
+msgid "Choose option to show../hide breadcrumbs in inner pages../posts"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:288
+#: ../themeidol-customizer../themeidol-customizer.php:1004
+#: ../themeidol-customizer../themeidol-customizer.php:1027
+#: ../themeidol-customizer../themeidol-customizer.php:1073
+#: ../themeidol-customizer../themidol-sanitize.php:63
+#: ../themeidol-customizer../themidol-sanitize.php:94
+#: ../themeidol-customizer../themidol-sanitize.php:124
+msgid "Show"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:289
+#: ../themeidol-customizer../themeidol-customizer.php:1005
+#: ../themeidol-customizer../themeidol-customizer.php:1028
+#: ../themeidol-customizer../themeidol-customizer.php:1074
+#: ../themeidol-customizer../themidol-sanitize.php:64
+#: ../themeidol-customizer../themidol-sanitize.php:95
+#: ../themeidol-customizer../themidol-sanitize.php:125
+msgid "Hide"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:301
+msgid "Blog Setting"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:302
+msgid "Select option for blog listing wide layout and boxed layout"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:320
+#: ../themeidol-customizer../themeidol-customizer.php:563
+msgid "Site Layout"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:323
+#: ../themeidol-customizer../themeidol-customizer.php:566
+#: ../themeidol-customizer../themidol-sanitize.php:48
+msgid "Wide Layout"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:324
+#: ../themeidol-customizer../themeidol-customizer.php:567
+#: ../themeidol-customizer../themidol-sanitize.php:49
+msgid "Boxed Layout"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:336
+msgid "Custom Design"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:354
+msgid "Custom css"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:367
+msgid "Scroll Bar Setting"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:387
+msgid "Nice Scroll Bar"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:388
+msgid "Enable../Disable option for Nice scroll bar."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:391
+#: ../themeidol-customizer../themeidol-customizer.php:694
+#: ../themeidol-customizer../themeidol-customizer.php:1111
+#: ../themeidol-customizer../themeidol-customizer.php:1191
+#: ../themeidol-customizer../themeidol-customizer.php:1295
+#: ../themeidol-customizer../themeidol-customizer.php:1377
+#: ../themeidol-customizer../themeidol-customizer.php:1483
+#: ../themeidol-customizer../themidol-sanitize.php:78
+msgid "Enable"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:392
+#: ../themeidol-customizer../themeidol-customizer.php:695
+#: ../themeidol-customizer../themeidol-customizer.php:1112
+#: ../themeidol-customizer../themeidol-customizer.php:1192
+#: ../themeidol-customizer../themeidol-customizer.php:1296
+#: ../themeidol-customizer../themeidol-customizer.php:1378
+#: ../themeidol-customizer../themeidol-customizer.php:1484
+#: ../themeidol-customizer../themidol-sanitize.php:79
+msgid "Disable"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:411
+msgid "Cursor color"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:439
+msgid "Cursor Border"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:467
+msgid "Cursor Width"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:533
+msgid "General Settings"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:544
+msgid "Website Layout"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:545
+msgid "Choose site layout which shows your website more effective."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:579
+msgid "Excerpt Settings"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:580
+msgid "Provide the Excerpt lenght for Blog Page."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:600
+msgid "Feed../Blog Excerpt Length"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:618
+msgid "Logo & Favicon"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:626
+msgid "Header Settings"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:643
+msgid "Favicon ( shortcut icon )"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:658
+msgid "Favicon ( Apple Touch Icon )"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:670
+msgid "Top Header Section"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:690
+msgid "Top Header"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:691
+msgid "Enable../Disable option to display top header section."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:715
+msgid "Top Header Elements"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:716
+msgid ""
+"Add your contact number to display at top header section as contact info."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:727
+msgid "167-157-5987"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:737
+msgid "Top Header Contact"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:757
+msgid "Top Header Social Links"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:758
+msgid "Add your social link to display at top header section as social icons."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:769
+msgid "https:../../facebook.com../"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:780
+msgid "Facebook"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:789
+msgid "https:../../twitter.com../"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:800
+msgid "Twitter"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:809
+msgid "https:../../plus.google.com../"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:820
+msgid "Google Plus"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:829
+msgid "https:../../linkedin.com../"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:840
+msgid "LinkedIn"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:849
+msgid "https:../../youtube.com../"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:860
+msgid "YouTube"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:869
+msgid "https:../../vimeo.com../"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:880
+msgid "Vimeo"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:891
+msgid "Header Section"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:911
+msgid "Search Icon Option"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:912
+msgid "Checked to show../add search icon at primary menu section."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:926
+#: ../themeidol-customizer../themeidol-customizer.php:1206
+#: ../themeidol-customizer../themeidol-customizer.php:1392
+msgid "Background Image Setting"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:948
+msgid "Homepage Settings"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:959
+msgid "Slider Settings"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:979
+msgid "Slider's Category"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:980
+msgid "Select cateogry for Homepage slider"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1000
+msgid "Slider Control"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1001
+msgid "Choose option to show../hide slider control at homepage."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1023
+msgid "Slider Pager"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1024
+msgid "Choose option to show../hide slider pager at homepage."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1046
+msgid "Slider Transaction"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1047
+msgid "Choose option about slide's auto../manual transaction at homepage."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1050
+#: ../themeidol-customizer../themidol-sanitize.php:109
+msgid "Auto"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1051
+#: ../themeidol-customizer../themidol-sanitize.php:110
+msgid "Manual"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1069
+msgid "Slider Caption Control"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1070
+msgid "Choose option to show../hide slider Caption at homepage in mobile."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1087
+msgid "Service Settings"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1107
+#: ../themeidol-customizer../themeidol-customizer.php:1187
+#: ../themeidol-customizer../themeidol-customizer.php:1291
+#: ../themeidol-customizer../themeidol-customizer.php:1373
+#: ../themeidol-customizer../themeidol-customizer.php:1479
+msgid "Section Conrol"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1108
+msgid "Enable../Disable option to display Our Service section at home page."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1122
+msgid "Our Services"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1131
+msgid "Service Section Title"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1132
+msgid "Add title for Service section."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1152
+msgid "Service Category"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1153
+msgid "Select cateogry for Homepage's Service section"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1167
+#: ../themeidol-customizer../themeidol-customizer.php:1353
+msgid "Call to Action"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1188
+#: ../themeidol-customizer../themeidol-customizer.php:1374
+msgid "Enable../Disable option to display Call to action section at home page."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1216
+msgid "Introducing Best Simple Theme"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1225
+#: ../themeidol-customizer../themeidol-customizer.php:1315
+#: ../themeidol-customizer../themeidol-customizer.php:1411
+#: ../themeidol-customizer../themeidol-customizer.php:1505
+msgid "Section Title"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1226
+#: ../themeidol-customizer../themeidol-customizer.php:1412
+msgid "Add title for Call To Action section."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1237
+#: ../themeidol-customizer../themeidol-customizer.php:1423
+msgid "Call To Action Description"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1257
+msgid "Call in action URI"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1258
+msgid "Add URI for Call To Action section."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1271
+#: ../themeidol-customizer../themeidol-customizer.php:1306
+#: ../themeidol-customizer../themeidol-customizer.php:1336
+msgid "Our Features"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1292
+msgid "Enable../Disable option to display latest blog section at home page."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1316
+msgid "Add title for latest blog section."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1337
+msgid "Select cateogry for Our Features posts."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1402
+msgid "Theme Idol's First WordPress Theme"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1437
+msgid "Testimonals"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1457
+msgid "Testimonials Section"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1458
+msgid "Set the testimoinals section."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1480
+msgid "Enable../Disable option to display Testimonilas section at home page."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1496
+msgid "Happy Clients"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1506
+msgid "Add title for tesimonials section."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1526
+msgid "Testimonials Category"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1527
+msgid "Select cateogry for testimonials posts."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1556
+msgid "Footer Settings"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1566
+msgid "Disclaimer Settings"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1567
+msgid "Disclaimer Details on footer"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1577
+msgid "Idol Corporate"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1586
+msgid "Disclaimers title"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1587
+msgid "Add title for Disclaimers."
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1601
+msgid "Copyright Settings"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1602
+msgid ""
+"Copyright Settings goes here. Here the legends are as follows "
+"@@DATE@@=Current Year and @@BLOG@@=Blog Title. Dynamically blog title and "
+"date are generated"
+msgstr ""
+
+#: ../themeidol-customizer../themeidol-customizer.php:1621
+msgid "Copyright Text"
+msgstr ""
